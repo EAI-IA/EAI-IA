@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey What's up?</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020, when I wrote my first line of code in Robotics.<br>📚 I'm currently learning advanced AI techniques and their applications in assistive robotics.<br>🎯 Goals: To developed innovative AI solutions.<br>🎲 Fun fact: I am building the framework for a Robot Agent Manager.</p>
+<p align="left">Creating bugs since 2020, when I wrote my first line of code in Robotics.<br>📚 I'm currently learning advanced AI techniques and their applications in assistive robotics.<br> Goals: To developed innovative AI solutions.<br> Fun fact: I am building the framework for a Robot Agent Manager.</p>
 
 ###
 
