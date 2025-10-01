@@ -28,6 +28,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <!-- ROS -->
+  <img src="https://cdn.simpleicons.org/ros/22314E" height="40" alt="ros logo"  />
+  <img width="12" />
+  <!-- RDF -->
+  <img src="https://cdn.simpleicons.org/semanticweb/0C479D" height="40" alt="rdf logo"  />
+  <img width="12" />
+  <!-- OpenAI (para LLM) -->
+  <img src="https://cdn.simpleicons.org/openai/412991" height="40" alt="llm logo"  />
+  <img width="12" />
+  <!-- Dialogflow (para NLU) -->
+  <img src="https://cdn.simpleicons.org/dialogflow/FF6F00" height="40" alt="nlu logo"  />
 </div>
 
 ###
