@@ -1,16 +1,29 @@
-<h1 align="left">Hey What's up?</h1>
+<h1 align="left">Hi, I'm Ervin 👋</h1>
 
 ###
 
-<p align="left">My name is Ervin is a student of robotic, and I developed AI programs related to Asistive Robotic My work includes prompt engineering, tasks for assistive robotics, and leveraging Large Lenguage Models.</p>
+<p align="left">I'm a PhD student in Electrical Engineering at <b>UNICAMP</b> (Brazil), working on <b>assistive robotics</b> and the orchestration of AI agents for <b>Internet of Robotic Things (IoRT)</b> environments.</p>
 
 ###
 
-<h2 align="left">> Prompts Engineering<br>> Task for Assistive Robotic<br>> Large Language Models</h2>
+<h2 align="left">> LLM-based agent orchestration<br>> Assistive robotics<br>> Human-robot interaction</h2>
 
 ###
 
-<p align="left">Creating bugs since 2020, when I wrote my first line of code in Robotics.<br> I'm currently learning advanced AI techniques and their applications in assistive robotics.<br> Goals: To developed innovative AI solutions.<br> I am building the framework for a Robot Agent Manager.</p>
+<p align="left">I build architectures where large language models plan, coordinate and act over networked robotic systems — from semantic IoT smart hubs to multi-agent task planning for assistive homes.</p>
+
+###
+
+- 🏆 <b>1st place, PhyRC Challenge 2025</b> — international assistive-robotics competition (EmPRISE Lab, Cornell University · Kinova), presented at IEEE ICRA 2025
+- 📄 Published at <b>IEEE SIoT 2025</b> and <b>IEEE SBR/WRE 2025</b>
+- 🎓 Master's in Electrical Engineering, UNICAMP (2025)
+- 🤖 AdRoLab — Advanced Robotics Laboratory, UNICAMP
+
+###
+
+<b>ORCID</b> <a href="https://orcid.org/0009-0002-9626-3413">0009-0002-9626-3413</a> ·
+<b>Lattes</b> <a href="http://lattes.cnpq.br/1692285115716301">1692285115716301</a> ·
+<b>AdRoLab</b> <a href="https://almada.dca.fee.unicamp.br/adrolab/">lab site</a>
 
 ###
 
@@ -19,13 +32,15 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
