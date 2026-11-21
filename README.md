@@ -1,60 +1,35 @@
-<h1 align="left">Hi, I'm Ervin 👋</h1>
+![Ervin Alain Bolivar Huayhua — AdRoLab, UNICAMP](./assets/banner.svg)
 
-###
+# Ervin Alain Bolivar Huayhua
 
-<p align="left">I'm a PhD student in Electrical Engineering at <b>UNICAMP</b> (Brazil), working on <b>assistive robotics</b> and the orchestration of AI agents for <b>Internet of Robotic Things (IoRT)</b> environments.</p>
+Doctoral student in Electrical Engineering at the **Universidade Estadual de Campinas (UNICAMP)**, Brazil, and member of [AdRoLab — Advanced Robotics Laboratory](https://almada.dca.fee.unicamp.br/adrolab/).
 
-###
+## Research interests
 
-<h2 align="left">> LLM-based agent orchestration<br>> Assistive robotics<br>> Human-robot interaction</h2>
+Assistive Robotics · Human-Robot Interaction · Internet of Robotic Things (IoRT) · Multi-Agent Systems · Large Language Models · Semantic Sensing (SSN/SOSA) · IoT
 
-###
+## Recognition
 
-<p align="left">I build architectures where large language models plan, coordinate and act over networked robotic systems — from semantic IoT smart hubs to multi-agent task planning for assistive homes.</p>
+**First place — PhyRC Challenge 2025**, organized by EmPRISE Lab, Cornell University, and sponsored by Kinova. The AdRoLab (UNICAMP) + H.IAAC team developed a hybrid approach using a Gaussian Mixture Model (GMM) for robotic dressing. The final stage took place at IEEE ICRA 2025.
 
-###
+## Education
 
-- 🏆 <b>1st place, PhyRC Challenge 2025</b> — international assistive-robotics competition (EmPRISE Lab, Cornell University · Kinova), presented at IEEE ICRA 2025
-- 📄 Published at <b>IEEE SIoT 2025</b> and <b>IEEE SBR/WRE 2025</b>
-- 🎓 Master's in Electrical Engineering, UNICAMP (2025)
-- 🤖 AdRoLab — Advanced Robotics Laboratory, UNICAMP
+- **Doctorate in Electrical Engineering**, UNICAMP · 2024–present
+- **Master's in Electrical Engineering**, UNICAMP · 2023–2025
+- **Electronic and Telecommunications Engineer**, Universidad Católica San Pablo (UCSP), Arequipa, Peru · 2014–2021
 
-###
+## Publications and research
 
-<b>ORCID</b> <a href="https://orcid.org/0009-0002-9626-3413">0009-0002-9626-3413</a> ·
-<b>Lattes</b> <a href="http://lattes.cnpq.br/1692285115716301">1692285115716301</a> ·
-<b>AdRoLab</b> <a href="https://almada.dca.fee.unicamp.br/adrolab/">lab site</a>
+- **2025** · [Context-Aware IoT Smart Hub: A Semantic and Cognitive Architecture for Adaptive Internet of Robotic Things Environments](https://doi.org/10.1109/SIoT68426.2025.11368775) · IEEE SIoT 2025
+- **2025** · [RD-GMM: A GMM-Based Framework for Robotic Dressing with a Single Fixed Robotic Arm Applied to T-Shirt Wearing](https://doi.org/10.1109/SBR/WRE66973.2025.11249651) · IEEE SBR/WRE 2025
+- **2025** · [Integração de LLMs na otimização e planejamento de sistemas multiagentes IoRT e interação conversacional](https://doi.org/10.47749/t/unicamp.2025.1518574) · Master's dissertation, UNICAMP
+- **2024** · [IoRT multi-agent for assistive homes: First Test](https://doi.org/10.5281/zenodo.15048073) · BRAINN / Zenodo
+- **2024** · [Robotic Structuring of an Assistive Home: Experimental Test](https://doi.org/10.5281/zenodo.15047999) · BRAINN / Zenodo
+- **2024** · [Emotive Gestural Expressions for Assistive Home Humanoid Robots: Simulation Test](https://doi.org/10.5281/zenodo.15048001) · BRAINN / Zenodo
+- **2024** · [Enhancing Assistive Home Environments through IoRT Multi-Agent Interaction: Model Selection and Robotic Operations](https://doi.org/10.5281/zenodo.15047997) · BRAINN / Zenodo
 
-###
+## Connect
 
-<h2 align="left">I code with</h2>
+[ORCID · 0009-0002-9626-3413](https://orcid.org/0009-0002-9626-3413) · [Lattes · 1692285115716301](http://lattes.cnpq.br/1692285115716301) · [Scopus Author ID · 60381836300](https://www.scopus.com/authid/detail.uri?authorId=60381836300)
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <!-- ROS -->
-  <img src="https://cdn.simpleicons.org/ros/22314E" height="40" alt="ros logo"  />
-  <img width="12" />
-  <!-- RDF -->
-  <img src="https://cdn.simpleicons.org/semanticweb/0C479D" height="40" alt="rdf logo"  />
-  <img width="12" />
-  <!-- OpenAI (para LLM) -->
-  <img src="https://cdn.simpleicons.org/openai/412991" height="40" alt="llm logo"  />
-  <img width="12" />
-  <!-- Dialogflow (para NLU) -->
-  <img src="https://cdn.simpleicons.org/dialogflow/FF6F00" height="40" alt="nlu logo"  />
-</div>
-
-###
+[LinkedIn](https://www.linkedin.com/in/ervin-bolivar-h-b348b8137/) · [GitHub](https://github.com/EAI-IA) · [Email](mailto:e250091@dac.unicamp.br)
